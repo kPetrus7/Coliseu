@@ -1,3 +1,5 @@
-Este site eu desenvolvi para um trabalho da faculdade. O objetivo era buscar alguém (pessoa física ou jurídica) que necessitace de um site ou uma página na web e propor a criação do mesmo, atendendo as necessidades e proostas do cliente.
-Para tal, conversei com um barbeiro da minha cidade e combinei de montar um site para a barbearia dele, ficou combinado que o site seria no estilo de um cartão de visita e que tivesse uma segunda página detalhando os serviços oferecidos por ele.
-Este é meu primeiro site e meu primeiro contato com um cliente real, o mesmo gostou do site então considero que o objetivo foi concluído com sucesso!
+Este site foi desenvolvido por mim para um trabalho da faculdade. O objetivo era encontrar alguém (pessoa física ou jurídica) que necessitasse de um site ou de uma página na web e propor a criação do mesmo, atendendo às necessidades e propostas do cliente.
+
+Para isso, conversei com um barbeiro da minha cidade e combinei de montar um site para a barbearia dele. Ficou acertado que o site teria o estilo de um cartão de visita e incluiria uma segunda página detalhando os serviços oferecidos.
+
+Este é o meu primeiro site e também meu primeiro contato com um cliente real. Ele gostou do resultado, então considero que o objetivo foi alcançado com sucesso!
