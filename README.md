@@ -13,15 +13,6 @@ Este foi o meu primeiro site e também meu primeiro contato com um cliente real.
 * HTML
 * CSS
 
-## Como Executar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Abra o arquivo `index.html` em seu navegador.
-
 ## Licença
 
 Este projeto é de uso acadêmico e não possui licença específica.
